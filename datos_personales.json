@@ -1,0 +1,36 @@
+[
+    {
+        "nombre": "Diego",
+        "apellido": "Simonelli",
+        "dni":"33508565",
+        "edad":"33",
+        "ropa": [
+            {
+                "prenda": "zapatilla", 
+                "cantidad": "9" 
+            },
+            {
+                "prenda": "remeras",
+                "cantidad": "16" 
+                
+            }
+            
+        ]
+    },
+    { 
+        "nombre": "Carla",
+        "apellido": "Trillo",
+        "dni":"33509554",
+        "edad":"27",
+        "ropa": [
+            {
+                "prenda": "polleras", 
+                "cantidad": "4" 
+            },
+            {
+                "prenda": "vestidos",
+                "cantidad": "12" 
+            }
+        ]
+    }
+]
